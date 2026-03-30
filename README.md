@@ -1,2 +1,0 @@
-- https://multi-clash-web-frontend.vercel.app/
-- https://multi-clash-web-frontend.pages.dev/
